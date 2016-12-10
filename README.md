@@ -1,2 +1,2 @@
 # myios
-my iOS projects
+My iOS based projects for Apple iDevices
